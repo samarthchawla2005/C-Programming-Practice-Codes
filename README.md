@@ -62,9 +62,7 @@ Each program is simple to understand and well-commented to explain what the code
 ├── 4 Find factorial of a number.c
 ├── 5 Print multiplication table.c
 ├── 6 Using while loop.c
-├── 7 Table using Do-while Loop (With two variables).exe
 ├── 7 Table using Do-while Loop (with three variables).c
-├── 7 Table using Do-While Loop (With two variables).exe
 ├── Arithmetic Operator.c
 ├── Array.c
 ├── Check the type of number.c
@@ -74,9 +72,9 @@ Each program is simple to understand and well-commented to explain what the code
 ├── Full name & fav. quote exercice.c
 ├── Function for num cube.c
 ├── Function to print name.c
-├── Function to repeat msg.exe
 ├── Function to repeat msg.c
 ├── README.md
+
 
 ```
 
