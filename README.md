@@ -56,24 +56,24 @@ Each program is simple to understand and well-commented to explain what the code
 ```
 /C-Programming-Practice-Codes
 │
-├── 1 Program to print Hello World.c
-├── 2 Addition of two numbers.c
-├── 3 Check whether a number is even or odd.c
-├── 4 Find factorial of a number.c
-├── 5 Print multiplication table.c
-├── 6 Using while loop.c
-├── 7 Table using Do-while Loop (with three variables).c
-├── Arithmetic Operator.c
-├── Array.c
-├── Check the type of number.c
-├── Conditional Statement.c
-├── Find Even & Odd Numbers in an Array.c
-├── For Loop.c
-├── Full name & fav. quote exercice.c
-├── Function for num cube.c
-├── Function to print name.c
-├── Function to repeat msg.c
-├── README.md
+├── 1. Program to print Hello World.c
+├── 2. Addition of two numbers.c
+├── 3. Check whether a number is even or odd.c
+├── 4. Find factorial of a number.c
+├── 5. Print multiplication table.c
+├── 6. Using while loop.c
+├── 7. Table using Do-while Loop (with three variables).c
+├── 8. Arithmetic Operator.c
+├── 9. Array.c
+├── 10. Check the type of number.c
+├── 11. Conditional Statement.c
+├── 12. Find Even & Odd Numbers in an Array.c
+├── 13. For Loop.c
+├── 14. Full name & fav. quote exercice.c
+├── 15. Function for num cube.c
+├── 16. Function to print name.c
+├── 17. Function to repeat msg.c
+
 
 
 ```
