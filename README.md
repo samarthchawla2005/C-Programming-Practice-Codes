@@ -90,12 +90,6 @@ Each program is simple to understand and well-commented to explain what the code
 
 ---
 
-## 🤝 Contribution
-
-If you'd like to add new practice programs or improve existing ones, feel free to fork the repository and create a pull request. Any beginner-friendly code is welcome!
-
----
-
 ## 📞 Contact
 
 For any questions or suggestions, you can reach me at:  
