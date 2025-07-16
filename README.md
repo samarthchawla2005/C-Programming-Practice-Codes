@@ -18,7 +18,8 @@ Here, you'll find programs covering fundamental concepts such as:
 - Loops (`for`, `while`, `do-while`)  
 - Arrays and strings  
 - Functions and recursion  
-- Simple algorithms and problem solving  
+- Simple algorithms and problem solving
+- Linear Search
 
 Each program is simple to understand and well-commented to explain what the code does.
 
